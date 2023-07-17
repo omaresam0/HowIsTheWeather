@@ -1,6 +1,6 @@
 # Weather Web App
 
-![Alt Text](https://i.ibb.co/k0kNDk1/scweather.png)
+![alt text](https://i.ibb.co/k0kNDk1/scweather.png)
 
 This is a web application that allows users to add cities and view the current weather in Fahrenheit for those cities.
 The application retrieves weather data from an external API and stores the added cities in a database.
